@@ -23,7 +23,7 @@ To submit this form, one of the team members following all the steps from [READM
 
 **Directly using the GitHub web interface to upload/edit files is not allowed. (except the course instructor 😄) **
 
-The other team members follow step 1, 2, 3, 6, & 8 from from [README.md](README.md) to add their signatures and seek review & approvals. Then, merge all the approved PRs to the main branch. One of the team member follow step 9 to create an onQ submission for the team. 
+The other team members follow step 1, 2, 3, 6, & 8 from from [README.md](README.md) to add their information and seek review & approvals. Then, merge all the approved PRs to the main branch. One of the team member follow step 9 to create an onQ submission for the team. 
 
 ##### Terms and Conditions
 
