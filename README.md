@@ -1,4 +1,4 @@
-<h1 align="center"> :fire: GitHub Basics for Assignment Submission Instructions :fire: </h1>
+<h1 align="center"> :fire: GitHub Basics for Assignment Submission :fire: </h1>
 
 
 <p align="center">
