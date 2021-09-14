@@ -34,7 +34,7 @@ Many of you may already have a GitHub account, if you do you can skip this step.
 We recommend you choose the free plan for this course. You are able to skip all steps until you are asked to verify your email address. After verifying our email, you will be brought to your hello-world repository. 
 
 ## 2. Where to Ask a Question? :question:
-There is an `issues` tab right up there :point_up:. Cannot find it? Click <a href='https://github.com/CISC-CMPE-327/Assignment-Instructions/issues'>HERE</a>. To ask a question, follow two steps:
+There is an `issues` tab right up there :point_up:. Cannot find it? Click <a href='https://github.com/CISC-CMPE-327/Information-2021/issues'>HERE</a>. To ask a question, follow two steps:
 
 - Frist, search for related issue using the `Filters` box. 
 - If no one asked before, create an issue with a title that summazie your whole question. Then fill in the body of your question. You can copy screenshot and parse into the text box as well. 
