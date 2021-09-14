@@ -154,8 +154,12 @@ If you click your branch name, it will jump to the branch and show you its files
 (For each assignment, specific instruction is given on how and what should your team submit. If not, by default, following the instruction below)
 
 Now ready for submission? It is easy. Just create a tag of **current master (main) branch** of your code:
+Switch to your main branch. (maybe `master` instead of `main` in the command below, depending on the name of your main branch)
 ```
-git checkout main (or maybe master instead of main, depends on the name of your main branch)
+git checkout main 
+```
+Then, create a new tag (like a release version)
+```
 git tag v0.0.1
 ```
 v0.0.1 is your chosen name of current version. The conversion of the naming starts with `v`. You can put whatever number. This tag is just created locally. We need to push it to GitHub:
