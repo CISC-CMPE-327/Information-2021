@@ -54,7 +54,7 @@ Go to https://education.github.com/discount_requests/new and add your Queen’s 
 
 You will be asked to verify the account in Email Settings. Once the address is verified, your benefits should be accessible.
 
-## 4. Create a Private GitHub Repository :zap:
+## 4. Create a Private GitHub Repository (one-per-team) :zap:
 Now that you have an account, you can create your repository (repo) for the course. Only one person per group needs to create a repo. 
 Navigate to your repositories page and click the green button in the upper-right labeled `New` to create a new repo. 
 
@@ -64,7 +64,7 @@ Navigate to your repositories page and click the green button in the upper-right
 </p>
 
 
-Name your repo and make sure to change your repo to Private. As well, you’ll want to initialize your repo with a README file and add the license you chose for your project in Assignment 0. Also pick a `.gitignore` file according to your chosen programming language. Basically it contains list of rules to ignore certain file extensions to be tracked in the repository (so basically they are ignored)
+Name your repo and make sure to change your repo to Private. As well, you’ll want to initialize your repo with a README file and add the license you chose for your project in Assignment 0. Also pick a `.gitignore` file according to your chosen programming language (e.g. python). Basically it contains list of rules to ignore certain file extensions to be tracked in the repository (so basically they are ignored).
 
 
 <p align="center">
@@ -96,9 +96,10 @@ git clone your_repository_homepage_url
 ```
 You will be asked to sign in GitHub. Now open your file explorer or finder, you will find that there is now a new folder created. It contains the files from your repository.
 
+
 ## 7. Committing changes to Github :facepunch:
 
-You can make changes to your local repository in any ways you want. For example, you can download necessary files from our template repository and put it to the folder. But make sure that you didn't modify the `.git` folder which contains repository data that tracks the changes you made over time. 
+You can make changes to your local repository in any ways you want. For example, you can download the course project contract template and put it folder. But make sure that you didn't modify the `.git` folder which contains repository data that tracks the changes you made over time. 
 
 Every time you would like to commit your code to the repository, make sure that you have downloaded all the remote changes (made by other people) by executing:
 ```
@@ -120,15 +121,41 @@ Then we push the local commit to GitHub:
 ```
 git push
 ```
-Done! Check your repository home page. You will see the updated files. If you have a GitHub Action workflow defined, you can see you test codes are running on the `actions` tab!
+Done! Check your repository home page. You will see the updated files. 
+
+## 8. Branches and PRs :facepunch:
+
+In the last example, we directly make changes to the master branch (the main branch of the repository). However, **this is not allowed** later in this course. You can only make changes to the main repository branch through feature branch and pull reqeust merge. Now, at your computer, open a terminal from your local repository. Create a feature branch locally: 
+
+```
+git checkout -b a_meaningful_branch_name
+```
+
+This will create a new branch named `a_meaningful_branch_name`, and switches your local repository from the original main branch (master) to `a_meaningful_branch_name`. When naming branches, please keep it space-free, short, concise, and human-friendly (e.g. `b0293x` is not a meaningful name). If you want to list all the branches available, you can use the command `git branch -v`. 
+
+Now, you will see exactly the same files like you do before you create the new branch. The new branch actually just inherits everything from the main branch when you issue the checkout command. It is time to make some changes. You can now implement new features of your system on your own local branch, without affacting both your local main branch and the remote main branch on GitHub. As an example for A0, if you follow the previous steps to add the contract template into your GitHub repository, now you can edit that file and fill in your name, save changes, and commit. 
+
+Then, we can push our changes (the updated template with your name) to the cloud, along with the created new branch:
+```
+git push origin -u a_meaningful_branch_name
+```
+
+After, you should be able to see your new branch with your changes on the GitHub webpage from here: 
+
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/8474647/133285609-7288c89e-d646-401d-9ea7-9f50e96ce7fd.png">
+</p>
+
+If you click your branch name, it will jump to the branch and show you its files. 
 
 
-## 8. Creating a Tag for Assignment Submission :pray:
+## 9. Creating a Tag for Assignment Submission :pray:
 
 (For each assignment, specific instruction is given on how and what should your team submit. If not, by default, following the instruction below)
 
-Now ready for submission? It is easy. Just create a tag of current version of your code:
+Now ready for submission? It is easy. Just create a tag of **current master (main) branch** of your code:
 ```
+git checkout main (or maybe master instead of main, depends on the name of your main branch)
 git tag v0.0.1
 ```
 v0.0.1 is your chosen name of current version. The conversion of the naming starts with `v`. You can put whatever number. This tag is just created locally. We need to push it to GitHub:
