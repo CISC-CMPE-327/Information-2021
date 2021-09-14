@@ -9,8 +9,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/CISC.CMPE.327-awesome-brightgreen.svg?style=flat-square">
-<img src="http://hits.dwyl.io/CISC-CMPE-327/Assignment-Instructions.svg">
-<img src="https://img.shields.io/github/issues/CISC-CMPE-327/Assignment-Instructions.svg?style=flat-square">
+<img src="https://img.shields.io/github/issues/CISC-CMPE-327/Information-2021.svg?style=flat-square">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
 <img src="https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen">
 <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen">
