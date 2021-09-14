@@ -6,8 +6,10 @@
 All the code/documentation contributions will go through the pull-request/review process
 You cannot just email your code to your teammate and ask them to upload. 
 There are two options for this project:
-1/ Web-based application.
-2/ CLI-based application.
+
+- Web-based application.
+- CLI-based application.
+
 We provide GitHub templates for either case; however, we strongly recommend you follow the first path, if you are willing to pick up some modern app design concepts and framework. 
 You don't have to make the decision right now.
 
@@ -20,6 +22,7 @@ You are to form a small independent software company that will contract to produ
 First, make sure everyone in the team reads and understands all the steps from [README.md](README.md).
 All the team members should know how to use git for creating branches, making commits, pushing changes, and creating PRs. 
 To submit this form, one of the team members following all the steps from [README.md](README.md).
+After, go to onQ's group page under the communications tab, select a group number and ask all team members to enroll on that group through onQ.
 
 **Directly using the GitHub web interface to upload/edit files is not allowed. (except the course instructor 😄) **
 
