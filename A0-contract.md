@@ -31,15 +31,28 @@ We hereby agree to work together as a team on the course project in CISC / CMPE 
 We each promise to make our best effort to ensure that the team works together and that we equitably share the workload and opportunities for learning on all project phases.
 
 Team Member #1:
-	Name:				______________________________________________
-	Student Number:		______________________________________________
-Team Member #2:
-	Name:				______________________________________________
-	Student Number:		______________________________________________
-Team Member #3:
-	Name:				______________________________________________
-	Student Number:		______________________________________________
-Team Member #4:
-	Name:				______________________________________________
-	Student Number:		______________________________________________
 
+Name:
+
+Student Number:	
+
+
+Team Member #2:
+
+Name:
+
+Student Number:	
+
+
+Team Member #3:
+
+Name:
+
+Student Number:	
+
+
+Team Member #4:
+
+Name:
+
+Student Number:	
