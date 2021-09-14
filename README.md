@@ -146,7 +146,21 @@ After, you should be able to see your new branch with your changes on the GitHub
   <img  src="https://user-images.githubusercontent.com/8474647/133285609-7288c89e-d646-401d-9ea7-9f50e96ce7fd.png">
 </p>
 
-If you click your branch name, it will jump to the branch and show you its files. 
+If you click your branch name, it will jump to the branch and show you its files. Once you are happy with the changes you have made, you can create a pull request. If not, you can continue the process of editing, committing, and pushing to your current new branch. 
+
+The purpose of a pull request (PR) is to seek reviews and approvals for merging your changes to the main branch. To do this, go to the pull requests page of your GitHub repository, and click the green `new pull request` button. 
+
+![image](https://user-images.githubusercontent.com/8474647/133288267-838ded89-8904-4a5d-a61a-4ac42b10264c.png)
+
+
+You can see there are two dropdown boxes connected with an arrow horizontally pointing to the left. This indicates the target branch and the source branch to be merged in this PR. Basically in a PR, we are migrating the changes from the source branch (right dropdown) to the target branch (left dropdown). The left dropdown box already selects your main/master branch, and now you can select your branch from the right dropdown, click `create pull request`:
+
+![image](https://user-images.githubusercontent.com/8474647/133289402-6d41db69-8a2a-4e26-befb-65e693a2c661.png)
+
+
+fill in the tile, the comments, add all your team members as reviewers on the right panel, assign yourself on the right panel. The other settings such as labels, are optional but recommended. For milestone, you can add a new milestone `contract signing` for this PR. Later on it can be our different stages of projects, such as `sprint-1`, `sprint-2`, etc. 
+
+Your teammate should have recieved a notification. Ask them to review, leave comments (even if there is no issue of your branch), and click approve for your PR. Once everyone approved your PR, you can click the `merge` button. After, you will be able to see your changes in your feature branch now got merged into the main repository. 
 
 
 ## 9. Creating a Tag for Assignment Submission :pray:
