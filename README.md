@@ -115,7 +115,7 @@ git add .
 ```
 Then, we create a local commit with a message:
 ```
-git commit -m `yo this is a message for the commit, it supports emoji!`
+git commit -m "yo this is a message for the commit, it supports emoji!"
 ```
 Then we push the local commit to GitHub:
 ```
