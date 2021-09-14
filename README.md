@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-:+1: Created By: Matt Dixon, Cesur Kavaslar, Andrew Boulos, Steven Ding (who adds Emoji and the badges)
+:+1: Created By: Matt Dixon, Cesur Kavaslar, Andrew Boulos, Leo Song, Steven Ding (who adds Emoji and the badges)
 </p>
 <p align="center">
 :sparkles: Pull request welcomed! You name will be added here!!
