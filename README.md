@@ -99,7 +99,7 @@ You will be asked to sign in GitHub. Now open your file explorer or finder, you 
 
 ## 7. Committing changes to Github :facepunch:
 
-You can make changes to your local repository in any ways you want. For example, you can download the course project contract template and put it folder. But make sure that you didn't modify the `.git` folder which contains repository data that tracks the changes you made over time. 
+You can make changes to your local repository in any ways you want. For example, you can download the course project contract template and put it folder (don't fill in the details/information, just the template). But make sure that you didn't modify the `.git` folder which contains repository data that tracks the changes you made over time. 
 
 Every time you would like to commit your code to the repository, make sure that you have downloaded all the remote changes (made by other people) by executing:
 ```
