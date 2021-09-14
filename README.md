@@ -122,38 +122,8 @@ git push
 ```
 Done! Check your repository home page. You will see the updated files. If you have a GitHub Action workflow defined, you can see you test codes are running on the `actions` tab!
 
-## 8.  GitHub Actions (for Continuous Integration): :ok_hand:
-With GitHub Actions, you will be able to automatically run all your test cases directly on the cloud, whenever you make changes to your codebase. GitHub actions are available by default. You will be able to use GitHub Actions for your course project. You will have 2,000 minutes test runtime per month for your project. You will find that at your repository homepage there is now one additional tab ‘Actions’. You will be able to find all the logs of all the test runs, and where it broke: 
 
-<p align="center">
-  <img width="800"  src="images/image7.png">
-</p>
-
-Setting up GitHub Actions workflow for your project is simple. Once you have picked a project option for your team, you can just copy the provided template to your repository. You can start to structure your project from there. If you haven't checkout the options yet, you can go to [here](https://github.com/CISC-CMPE-327/Information/tree/master/Project) for project descriptptions and the link to the templates of different options. 
-
-Basically the xxx.yml file in the folder `.github/workflows` define the workflow of your CI process. Different language uses different toolchains so please find your template according. But typically:
-
-<p align="center">
-  <img width="400"  src="images/image5.png">
-</p>
-
-- `name`: the name of your CI process. Can be anything. You name it.
-- `on`: the event for which will trigger your CI process. Here we add push. Means that everytime you push your code to the repository, it will trigger the script to run!
-- `runs-on`: which platform you would like the test case to run on.
-- `steps`: steps to carry out in sequence.
-- `uses`: leverage existing operations defined in github actions. In this example, `actions/checkout@v1` means downloading the code.
-- `name`: give a name to a step. Usually under the name item you will find a `run` item.
-- `run`: the script/command to execute.
-
-These templates provide you a starting point to setup your repository and understand how the workflow works for GitHub Actions (well the other CI platforms all follow a similar idea, under the hood GitHub Actions uses M:heavy_dollar_sign: Azure pipelines). You are free to organize the file and test cases in any ways that you prefer. Just be sure to document them accordingly. 
-
-The `passing` badge on the homepage (in the README file) still points to the original template. So make sure that you update the link accordingly pointing to your repository. 
-
-<p align="center">
-  <img width="800"  src="images/image2.png">
-</p>
-
-## 9. Creating a Tag for Assignment Submission :pray:
+## 8. Creating a Tag for Assignment Submission :pray:
 
 (For each assignment, specific instruction is given on how and what should your team submit. If not, by default, following the instruction below)
 
