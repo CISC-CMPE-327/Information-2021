@@ -84,7 +84,7 @@ First, add each of your team members’ GitHub Accounts as collaborators to the 
 Next, add each of the TA’s accounts as collaborators as well - this will allow us to mark your assignments:
 
 - 327qabot
-- leordsong
+- leoabot  
 - mwrana327
 - MatthewIsfeld
 - Lia327
