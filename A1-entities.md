@@ -96,6 +96,7 @@ All the assignments, starting from this point, will follow these rules:
 - No direct change to the master/main branch of your repository. 
 - All the changes to the repository have to go through Pull Request (PR).
 - All the PRs require reviews and approval before merging. 
+- Each PR requires at least 2 reviewers, and each member has to do at least two reviews.
 - All the reviews must provide at least one comment (constructive & specific) for improvement. 
 - All the team members must have at least a PR for each assignment (sprint).
 - All the project activities have to be planned through the scrum board before coding and testing.
