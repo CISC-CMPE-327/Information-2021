@@ -29,9 +29,9 @@ Your final products will be tested and evaluated by an independent evaluator or 
 
 ## 💺 Getting Start
 
-1. [***Important***] One elected team member, preferably the most experienced one as a Scrum master.
+1. [***Important***] One elected team member, preferably the most experienced one, acts as a Scrum master. 
 
-2. [***Important***] The scrum master, after negotiating with the team, select a style guide for the programming language in the project. (e.g. PEP 8 for python). If any new language is added to the project later on, such as JavaScript later for the front-end, the scrum master has to add a new style guide for that language. The 
+2. [***Important***] The Scrum master, after negotiating with the team, select a style guide for the programming language in the project. (e.g. PEP 8 for python). If any new languages are added to the project later on, such as JavaScript later for the front-end, the scrum master has to add a new style guide for that language.  
 
 3. [***Important***] The scrum master follows this [guide](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository) to create a pull request template agreed upon by the team members. 
 [Example](https://embeddedartistry.com/blog/2017/08/04/a-github-pull-request-template-for-your-projects/) of a PR template. Starting from this point of the assignments, all the PRs have to follow the agreed template. This template should be used in each PR.
