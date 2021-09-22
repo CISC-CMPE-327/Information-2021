@@ -60,9 +60,9 @@ So feel free to include anything. Then, the customer will discuss it and provide
 
 The tasks for this sprint:
 
-- Identify the entities of the application (hint in total at least 4, can be more depending on your design).
+- Identify the entities of the application (hint: in total at least 4, can be more depending on your design).
 - Create cards (backlog) on your scrum board for this sprint to implement the entities.
-- Assign team members and reviewers for each card (task). 
+- Assign team members and reviewers for each card (task). The assignee then moves them to todo.
 - Implement the data models following the python example below. All the code must have detailed comments. All the models can be in a single file.
 - PR, Review, and Merge the PR.
 - Testing: all the code follow the selected coding guideline. (for example, [pep8 for python](https://flake8.pycqa.org/en/latest/))
