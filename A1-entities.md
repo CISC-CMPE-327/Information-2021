@@ -66,7 +66,7 @@ The tasks for this sprint:
 - Implement the data models following the python example below. All the code must have detailed comments. All the models can be in a single file.
 - PR, Review, and Merge the PR.
 - Testing: all the code follow the selected coding guideline. (for example, [pep8 for python](https://flake8.pycqa.org/en/latest/))
-- Sprint review: review each card and each PRs, ensuring that they didn't violate any of the rules defined below. Create a tag for A1 submission through onQ.
+- Sprint review: review each card and each PRs, ensuring that they didn't violate any of the rules defined below. Create a tag for A1 and submit through onQ.
 
 
 ```python
@@ -87,6 +87,15 @@ class User(db.Model):
         return '<User %r>' % self.username
 
 ```
+
+If you want to use a different programming language or framework. You have to make sure every one in the team:
+
+ - follow a style guideline for the selected programing language, know how to automatically check if the code follow with the style guide (e.g. eslint for JavaScript)
+ - know how to do automated deployment (later on testing will be done in CI rather than running locally; so you will need to automatically deploy a database if you know how to do it with the other language)
+ - know how to do automated unit testing and front-end testing in your chosen language (selenium-based web testing or CLI input/output-based testing)
+
+Even though we are using python for the moment. Later for the front end options are CLI, Template-based web, or RESTful+React. Then dockerized everything plus docker-compose.
+
 
 ## 💺 Rules
 
@@ -119,7 +128,5 @@ For any violations that can be tracked down, a penalty will apply for both the r
 - Code style compliance (max 3 for the deduction, .1 for each style error, maximum number of violations before deduction 2)
 - Documentation and comments - each file/class/method/attribute should have comments. (max 1 for deduction, .1 for each violation)
 - Completeness of the data models covering all the above customer requirements (max 1 for the deduction, missing one required entity minus .25)
-
-
 
 
