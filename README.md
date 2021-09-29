@@ -15,6 +15,17 @@
 <p align="center">
 :sparkles: Pull request welcomed! You name will be added here!!
 </p>
+<table>
+  <tr>
+    <td align="center"><a href="https://l1nna.com/"><img src="https://avatars3.githubusercontent.com/u/8474647?v=4" width="100px;" alt=""/><br /><sub><b>Steven Ding</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=steven-hh-ding" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=steven-hh-ding" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/leordsong"><img src="https://avatars3.githubusercontent.com/u/13053186?v=4" width="100px;" alt=""/><br /><sub><b>Leo Song</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=leordsong" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=leordsong" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/reetamtaj"><img src="https://avatars3.githubusercontent.com/u/43523091?v=4" width="100px;" alt=""/><br /><sub><b>Reetam Taj</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=reetamtaj" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=reetamtaj" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/charasyn"><img src="https://avatars1.githubusercontent.com/u/6129909?v=4" width="100px;" alt=""/><br /><sub><b>Cooper Harasyn</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/THardy98"><img src="https://avatars3.githubusercontent.com/u/15315413?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Hardy</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/aubreymcleod"><img src="https://avatars2.githubusercontent.com/u/62336777?v=4" width="100px;" alt=""/><br /><sub><b>aubreymcleod</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=aubreymcleod" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=aubreymcleod" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/adamhirani"><img src="https://avatars1.githubusercontent.com/u/45299859?v=4" width="100px;" alt=""/><br /><sub><b>Adam</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=adamhirani" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=adamhirani" title="Documentation">📖</a></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="/images/unknown.png" height="450px" alt="" />
@@ -22,6 +33,8 @@
 <p align="center">
   <p align="center">[Credits: LammyJams]</p>
 </p>
+
+
 
 
 ## 1. Create GitHub Account :star:
