@@ -131,9 +131,9 @@ For any violations that can be tracked down, a penalty will apply for both the r
 
 ## 💺 Grading:
 
-- Scrum practices (max 2 for the deduction, .25 for each violation, maximum number of violations before deduction 2)
-- PR and git practices, including code review (max 3 for the deduction, .25 for each violation, maximum number of violations before deduction 3)
-- Code style compliance (max 3 for the deduction, .1 for each style error, the maximum number of violations before deduction 2)
-- Documentation and comments - each file/class/method/attribute should have comments. (max 1 for deduction, .1 for each violation)
-- Completeness of the data models covering all the above customer requirements (max 1 for the deduction, missing one required entity minus .25)
+- Scrum practices (max 1 for the deduction, .25 for each violation, maximum number of violations before deduction 1)
+- PR and git practices, including code review (max 1 for the deduction, .25 for each violation, maximum number of violations before deduction 1)
+- Code style compliance (max 1 for the deduction, .1 for each style error, the maximum number of violations before deduction 1)
+- Documentation and comments - each file/class/method/attribute should have comments !!!! (max 3 for deduction, .1 for each violation)
+- Completeness of the features and testing covering all the above customer requirements (max 4 for the deduction, .25 for each missing/failed constraints)
 
