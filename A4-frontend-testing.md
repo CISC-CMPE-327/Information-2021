@@ -56,7 +56,7 @@ Otherwise, one can directly move the card to the testing column.
 **The test cases from each member have to cover at least three different BlackBox testing methods.**
 **The test cases must be annotated with the testing methods.**
 Daily standup meeting - Following the way we described in the lecture, the scrum master has to host a scrum meeting at least 2 days before the deadline.
-The scrum master has to take a screenshot of their board (and upload it to their git repository - can be through the web interface) and create a markdown file with the updates from each team member. Each team member is supposed to have started the work before the daily scrum meeting, 
+The scrum master has to take a screenshot of their board (and upload it to their git repository - can be through the web interface) and create a markdown file with the updates from each team member (can be through the web interface). Each team member is supposed to have started the work before the daily scrum meeting, 
 and report the progress or any difficulties. Each team member has to mention: 
 1) what is the branch he/she worked on (has to be pushed to the repo). 
 2) what is the progress so far (at least some test cases written, more than 2)
@@ -69,7 +69,7 @@ Once a card is done with the implementation and local testing (on your workstati
 
 
 ### 📝 Step 6 - Review & Retrospect
-Review your changes, and document the structure (file/folder/test function name) in a single markdown on your home page. You can organize it in the way you prefer. 
+Review your changes, and document the structure (file/folder/test function name) in a single markdown on your home page (can be through the web interface). You can organize it in the way you prefer. 
 The TA will rely on this to find your test cases.
 
 
