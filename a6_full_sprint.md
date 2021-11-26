@@ -32,7 +32,7 @@ This sprint is then kicked off by a planning meeting, where the scrum master and
    - frontend development
    - frontend integration testing
    - security testing 
-   - development (update docker image)
+   - deployment (update docker image)
 - Assign members and reviewers to the cards.
 - Assignees move the cards to the todo column.
 
